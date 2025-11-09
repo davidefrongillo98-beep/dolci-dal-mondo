@@ -85,14 +85,15 @@ a {
 }
 
 .main-footer {
-    width: 100%;
-    background-color: #262626;
-    color: #c0c0c0;
-    border-top: 1px solid #444;
-    display: flex;
-    align-items: center;
-    box-sizing: border-box;
-    padding-top: 35px;
+  width: 100%;
+  background-color: #262626;
+  color: #c0c0c0;
+  border-top: 1px solid #444;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+  box-sizing: border-box;
 }
 
 
@@ -116,5 +117,4 @@ table.vanilla td {
     border: 4px double #ddd;
     padding: 10px;
     text-align: left;
-
 }
