@@ -82,21 +82,16 @@ a {
     left: 0;
     width: 100%;
     background-color: #0615ec;
-    color: #222;
     padding: 10px 20px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .main-footer {
     width: 100%;
     background-color: #262626;
-    color: #c0c0c0;
     border-top: 1px solid #444;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     padding: 20px 0;
     box-sizing: border-box;
+    bottom:0;
 }
 
 
